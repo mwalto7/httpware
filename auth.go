@@ -91,8 +91,7 @@ func (a basicAuth) forbidden(w http.ResponseWriter, r *http.Request) {
 	http.Error(w, http.StatusText(http.StatusForbidden), http.StatusForbidden)
 }
 
-// TODO(mwalto7): Implement this auth method.
-func BearerAuth() func(http.Handler) http.Handler {
+func bearerAuth() func(http.Handler) http.Handler {
 	return func(h http.Handler) http.Handler {
 		return http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
 			panic("implement me")
@@ -100,8 +99,7 @@ func BearerAuth() func(http.Handler) http.Handler {
 	}
 }
 
-// TODO(mwalto7): Implement this auth method.
-func DigestAuth() func(http.Handler) http.Handler {
+func digestAuth() func(http.Handler) http.Handler {
 	return func(h http.Handler) http.Handler {
 		return http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
 			panic("implement me")
@@ -109,8 +107,7 @@ func DigestAuth() func(http.Handler) http.Handler {
 	}
 }
 
-// TODO(mwalto7): Implement this auth method.
-func HOBAAuth() func(http.Handler) http.Handler {
+func hobaAuth() func(http.Handler) http.Handler {
 	return func(h http.Handler) http.Handler {
 		return http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
 			panic("implement me")
@@ -118,8 +115,7 @@ func HOBAAuth() func(http.Handler) http.Handler {
 	}
 }
 
-// TODO(mwalto7): Implement this auth method.
-func MutualAuth() func(http.Handler) http.Handler {
+func mutualAuth() func(http.Handler) http.Handler {
 	return func(h http.Handler) http.Handler {
 		return http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
 			panic("implement me")
@@ -127,8 +123,7 @@ func MutualAuth() func(http.Handler) http.Handler {
 	}
 }
 
-// TODO(mwalto7): Implement this auth method.
-func AWS4Auth() func(http.Handler) http.Handler {
+func aWS4Auth() func(http.Handler) http.Handler {
 	return func(h http.Handler) http.Handler {
 		return http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
 			panic("implement me")
