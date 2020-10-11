@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c97df059-ab12-4208-8594-7cb7887d36fd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.15.2/libexec" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="arn:aws:eks:us-east-2:726764357059:cluster/dev" />
+    <option name="namespace" value="q-universe" />
+  </component>
+  <component name="ProjectId" id="1ihB8euogyVXsScNJ1etiBVz7RZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="FeaturesTrainerSettingsPanel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TestBasicAuth in github.com/mwalto7/httpware" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="httpware" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/mwalto7/httpware" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestBasicAuth\E$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestBasicAuth in github.com/mwalto7/httpware" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1878" height="353" key="GridCell.Tab.0.bottom" timestamp="1602377588608">
+      <screen x="0" y="23" width="3840" height="2057" />
+    </state>
+    <state width="1878" height="353" key="GridCell.Tab.0.bottom/0.23.3840.2057@0.23.3840.2057" timestamp="1602377588608" />
+    <state width="1878" height="353" key="GridCell.Tab.0.center" timestamp="1602377588607">
+      <screen x="0" y="23" width="3840" height="2057" />
+    </state>
+    <state width="1878" height="353" key="GridCell.Tab.0.center/0.23.3840.2057@0.23.3840.2057" timestamp="1602377588607" />
+    <state width="1878" height="353" key="GridCell.Tab.0.left" timestamp="1602377588607">
+      <screen x="0" y="23" width="3840" height="2057" />
+    </state>
+    <state width="1878" height="353" key="GridCell.Tab.0.left/0.23.3840.2057@0.23.3840.2057" timestamp="1602377588607" />
+    <state width="1878" height="353" key="GridCell.Tab.0.right" timestamp="1602377588607">
+      <screen x="0" y="23" width="3840" height="2057" />
+    </state>
+    <state width="1878" height="353" key="GridCell.Tab.0.right/0.23.3840.2057@0.23.3840.2057" timestamp="1602377588607" />
+    <state width="1878" height="751" key="GridCell.Tab.1.bottom" timestamp="1602375924664">
+      <screen x="0" y="23" width="3840" height="2057" />
+    </state>
+    <state width="1878" height="751" key="GridCell.Tab.1.bottom/0.23.3840.2057@0.23.3840.2057" timestamp="1602375924664" />
+    <state width="1878" height="751" key="GridCell.Tab.1.center" timestamp="1602375924663">
+      <screen x="0" y="23" width="3840" height="2057" />
+    </state>
+    <state width="1878" height="751" key="GridCell.Tab.1.center/0.23.3840.2057@0.23.3840.2057" timestamp="1602375924663" />
+    <state width="1878" height="751" key="GridCell.Tab.1.left" timestamp="1602375924663">
+      <screen x="0" y="23" width="3840" height="2057" />
+    </state>
+    <state width="1878" height="751" key="GridCell.Tab.1.left/0.23.3840.2057@0.23.3840.2057" timestamp="1602375924663" />
+    <state width="1878" height="751" key="GridCell.Tab.1.right" timestamp="1602375924663">
+      <screen x="0" y="23" width="3840" height="2057" />
+    </state>
+    <state width="1878" height="751" key="GridCell.Tab.1.right/0.23.3840.2057@0.23.3840.2057" timestamp="1602375924663" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/httpware$TestBasicAuth_in_github_com_mwalto7_httpware.out" NAME="TestBasicAuth in github.com/mwalto7/httpware Coverage Results" MODIFIED="1602376628829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
