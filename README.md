@@ -1,4 +1,4 @@
-# httpware [![GoDoc](https://godoc.org/github.com/mwalto7/httpware?status.svg)](https://godoc.org/github.com/mwalto7/httpware) [![Go Report Card](https://goreportcard.com/badge/github.com/mwalto7/httpware)](https://goreportcard.com/report/github.com/mwalto7/httpware) ![Test](https://github.com/mwalto7/httpware/workflows/Test/badge.svg?branch=main)
+# httpware [![PkgGoDev](https://pkg.go.dev/badge/github.com/mwalto7/httpware)](https://pkg.go.dev/github.com/mwalto7/httpware) [![Go Report Card](https://goreportcard.com/badge/github.com/mwalto7/httpware)](https://goreportcard.com/report/github.com/mwalto7/httpware) ![Test](https://github.com/mwalto7/httpware/workflows/Test/badge.svg?branch=main)
 
 A collection of useful Go HTTP middleware functions.
 
